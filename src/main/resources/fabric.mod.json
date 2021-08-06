@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "modid",
+  "version": "${version}",
+
+  "name": "Stratum",
+  "description": "Adds additional stone layers to world generation",
+  "authors": [
+    "Andrew Grant (Andrew6rant)"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "LGPL-2.1",
+  "icon": "assets/stratum/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.Andrew6rant.stratum.Stratum"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
