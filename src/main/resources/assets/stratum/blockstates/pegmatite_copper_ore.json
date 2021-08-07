@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "stratum:block/pegmatite_copper_ore"
+      }
+    ]
+  }
+}

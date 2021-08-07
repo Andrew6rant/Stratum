@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "stratum:block/dacite_copper_ore"
+      }
+    ]
+  }
+}

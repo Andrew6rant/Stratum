@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "stratum:block/pumice_copper_ore"
+      }
+    ]
+  }
+}

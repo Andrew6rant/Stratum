@@ -1,0 +1,48 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "stratum:block/pumice"
+      },
+      {
+        "model": "stratum:block/pumice",
+        "y": 90
+      },
+      {
+        "model": "stratum:block/pumice",
+        "y": 180
+      },
+      {
+        "model": "stratum:block/pumice",
+        "y": 270
+      },
+      {
+        "model": "stratum:block/pumice",
+        "x": 90
+      },
+      {
+        "model": "stratum:block/pumice",
+        "x": 180
+      },
+      {
+        "model": "stratum:block/pumice",
+        "x": 270
+      },
+      {
+        "model": "stratum:block/pumice",
+        "y": 90,
+        "x": 90
+      },
+      {
+        "model": "stratum:block/pumice",
+        "y": 180,
+        "x": 180
+      },
+      {
+        "model": "stratum:block/pumice",
+        "y": 270,
+        "x": 270
+      }
+    ]
+  }
+}

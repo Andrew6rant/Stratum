@@ -1,0 +1,48 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "stratum:block/dacite"
+      },
+      {
+        "model": "stratum:block/dacite",
+        "y": 90
+      },
+      {
+        "model": "stratum:block/dacite",
+        "y": 180
+      },
+      {
+        "model": "stratum:block/dacite",
+        "y": 270
+      },
+      {
+        "model": "stratum:block/dacite",
+        "x": 90
+      },
+      {
+        "model": "stratum:block/dacite",
+        "x": 180
+      },
+      {
+        "model": "stratum:block/dacite",
+        "x": 270
+      },
+      {
+        "model": "stratum:block/dacite",
+        "y": 90,
+        "x": 90
+      },
+      {
+        "model": "stratum:block/dacite",
+        "y": 180,
+        "x": 180
+      },
+      {
+        "model": "stratum:block/dacite",
+        "y": 270,
+        "x": 270
+      }
+    ]
+  }
+}

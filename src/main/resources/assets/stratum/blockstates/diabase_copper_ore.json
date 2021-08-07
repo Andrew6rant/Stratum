@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "stratum:block/diabase_copper_ore"
+      }
+    ]
+  }
+}

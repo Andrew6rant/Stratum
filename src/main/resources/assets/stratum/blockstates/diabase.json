@@ -1,0 +1,48 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "stratum:block/diabase"
+      },
+      {
+        "model": "stratum:block/diabase",
+        "y": 90
+      },
+      {
+        "model": "stratum:block/diabase",
+        "y": 180
+      },
+      {
+        "model": "stratum:block/diabase",
+        "y": 270
+      },
+      {
+        "model": "stratum:block/diabase",
+        "x": 90
+      },
+      {
+        "model": "stratum:block/diabase",
+        "x": 180
+      },
+      {
+        "model": "stratum:block/diabase",
+        "x": 270
+      },
+      {
+        "model": "stratum:block/diabase",
+        "y": 90,
+        "x": 90
+      },
+      {
+        "model": "stratum:block/diabase",
+        "y": 180,
+        "x": 180
+      },
+      {
+        "model": "stratum:block/diabase",
+        "y": 270,
+        "x": 270
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "stratum:block/template_ore",
+  "textures": {
+    "0": "stratum:block/pegmatite",
+    "overlay": "stratum:block/copper_ore_overlay",
+    "particle": "stratum:block/pegmatite"
+  }
+}
